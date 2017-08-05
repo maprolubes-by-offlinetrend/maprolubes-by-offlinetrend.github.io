@@ -32,6 +32,7 @@
     .col-m-10 {width: 83.33%;}
     .col-m-11 {width: 91.66%;}
     .col-m-12 {width: 100%;}
+    .carousel-inner { height: 100%}
 }
 
 @media only screen and (min-width: 768px) {
@@ -48,6 +49,7 @@
     .col-10 {width: 83.33%;}
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
+    .carousel-inner { height: 100%}
 }
 
 .menu ul {
@@ -62,4 +64,20 @@
 }
 /*html {
     font-family: "Lucida Sans", sans-serif;
+}*/
+
+/*
+@media (max-width: 991px) {
+    #mobile-only {
+        display:block !important;
+    }
+}
+@media (min-width:992px) {
+    #desktop-only {
+        display:block !important;
+    }
+
+     #mobile-only {
+        display:none !important;
+    }
 }*/
